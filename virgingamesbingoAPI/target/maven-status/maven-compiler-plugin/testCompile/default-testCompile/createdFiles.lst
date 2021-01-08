@@ -1,0 +1,4 @@
+com\virgingames\testbase\TestBase.class
+cucumber\stepdefs\MyStepdefs.class
+com\virgingames\gameinfo\GetAllGameTest.class
+cucumber\CucumberRunner.class
